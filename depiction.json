@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Stops the Weather wallpaper from freezing on your Lock Screen & Home Screen and even more !",
+          "markdown": "<b>Weather No Freeze !</b> the successor to <b>Forecast</b>, <b>WeatherBoard</b>, <b>Asteroid</b>, and <b>WeatherGround</b> is finally here for iOS 16!<br><br>Stops the Weather wallpaper from freezing on your Lock Screen & Home Screen and even more !",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -155,7 +155,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Weather No Freeze ! le successeur de Forecast, WeatherBoard, Asteroid et WeatherGround enfin sur iOS 16  !<b><b>Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
+          "markdown": "<b>Weather No Freeze !</b> le successeur de <b>Forecast</b>, <b>WeatherBoard</b>, <b>Asteroid</b> et <b>WeatherGround</b> enfin sur iOS 16  !<b><b>Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
           "useSpacing": true,
           "useRawFormat": true
         },
