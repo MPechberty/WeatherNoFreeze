@@ -38,7 +38,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Lock Screen backlight</b> :<br>- Customize or disable the Auto-Lock delay of the Lock Screen.<br>(The delay resets when you touch or unlock the screen).",
+          "markdown": "• <b>Lock Screen backlight</b> :<br>- Customize or disable the Auto-Lock delay of the Lock Screen (The delay resets when you touch or unlock the screen).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Settings live in <b>Settings --› Weather No Freeze</b>.<br>(A respring is not needed to apply all changes).",
+          "markdown": "• Settings live in :<br><b>Settings</b> --› <b>Weather No Freeze</b>.<br>(A respring is not needed to apply all changes).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -183,7 +183,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Rétro-éclairage du Lock Screen</b> :<br>- Personnalise ou désactive le délai d'extinction automatique de l'écran de verrouillage.<br>(Le délai revient à zéro si tu touches ou déverrouilles l'écran).",
+          "markdown": "• <b>Rétro-éclairage du Lock Screen</b> :<br>- Personnalise ou désactive le délai d'extinction automatique de l'écran de verrouillage (Le délai revient à zéro si tu touches ou déverrouilles l'écran).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -195,7 +195,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Les réglages sont dans <b>Réglages --› Weather No Freeze</b>.<br>(Un respring n'est pas obligatoire pour appliquer tous les changements).",
+          "markdown": "• Les réglages sont dans :<br><b>Réglages</b> --› <b>Weather No Freeze</b>.<br>(Un respring n'est pas obligatoire pour appliquer tous les changements).",
           "useSpacing": true,
           "useRawFormat": true
         },
