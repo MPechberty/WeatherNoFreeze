@@ -155,7 +155,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
+          "markdown": "Weather No Freeze ! le successeur de Forecast, WeatherBoard, Asteroid et WeatherGround enfin sur iOS 16  !<b><b>Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
           "useSpacing": true,
           "useRawFormat": true
         },
