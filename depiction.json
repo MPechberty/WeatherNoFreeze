@@ -20,25 +20,25 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Unfreeze the Weather wallpaper</b> :<br>- Disables the freezing of the animations on the Weather wallpaper (Lock Screen & Home Screen).",
+          "markdown": "• <b>Unfreeze the Weather wallpaper</b> :<br>- Disables the freezing of <br>  the animations on the Weather wallpaper (Lock Screen & Home <br>  Screen).",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Animation speed</b> :<br>- Adjust the speed with a slider, up to 10 times faster ! (The iOS default is 1.00).",
+          "markdown": "• <b>Animation speed</b> :<br>- Adjust the speed with a slider, up to 10 times <br>  faster ! (The iOS default is 1.00).",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Simulate the weather you want</b> :<br>- Force any weather condition (48 to choose from, or keep your local weather).<br>- Force the sky background to Auto, Day or Night.",
+          "markdown": "• <b>Simulate the weather you want</b> :<br>- Force any weather condition (48 to choose <br>  from, or keep your local weather).<br>- Force the sky background to Auto, Day or <br>  Night.",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Lock Screen backlight</b> :<br>- Customize or disable the Auto-Lock delay of the Lock Screen (The delay resets when you touch or unlock the screen).",
+          "markdown": "• <b>Lock Screen backlight</b> :<br>- Customize or disable the Auto-Lock delay of <br>  the Lock Screen (The delay resets when you <br>  touch or unlock the screen).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Settings live in :<br><b>Settings</b> --› <b>Weather No Freeze</b>.<br>(A respring is not needed to apply all changes).",
+          "markdown": "• Settings live in :<br><b>Settings</b> --› <b>Weather No Freeze</b> (A respring is not needed to apply all changes).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -155,7 +155,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen.<br>Permet de régler la vitesse de l'animation et de simuler le temps de ton choix.",
+          "markdown": "Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -165,25 +165,25 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Dégeler le fond d'écran Météo</b> :<br>- Désactive le gel des animations sur le fond d'écran Météo (Lock Screen & Home Screen).",
+          "markdown": "• <b>Dégeler le fond d'écran Météo</b> :<br>- Désactive le gel des animations sur le fond <br>  d'écran Météo (Lock Screen & Home Screen).",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Vitesse de l'animation</b> :<br>- Règle la vitesse avec un curseur, jusqu'à 10 fois plus vite ! (Par défaut, iOS utilise 1.00).",
+          "markdown": "• <b>Vitesse de l'animation</b> :<br>- Règle la vitesse avec un curseur, jusqu'à 10 <br>  fois plus vite ! (Par défaut, iOS utilise 1.00).",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Simuler le temps souhaité</b> :<br>- Force n'importe quelle condition météo (48 au choix, ou ta météo locale).<br>- Force le fond du ciel en Auto, Jour ou Nuit.",
+          "markdown": "• <b>Simuler le temps souhaité</b> :<br>- Force n'importe quelle condition météo (48 <br>  au choix, ou ta météo locale).<br>- Force le fond du ciel en Auto, Jour ou Nuit.",
           "useSpacing": true,
           "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• <b>Rétro-éclairage du Lock Screen</b> :<br>- Personnalise ou désactive le délai d'extinction automatique de l'écran de verrouillage (Le délai revient à zéro si tu touches ou déverrouilles l'écran).",
+          "markdown": "• <b>Rétro-éclairage du Lock Screen</b> :<br>- Personnalise ou désactive le délai <br>  d'extinction automatique de l'écran de <br>  verrouillage (Le délai revient à zéro si tu <br>  touches ou déverrouilles l'écran).",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -195,7 +195,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "• Les réglages sont dans :<br><b>Réglages</b> --› <b>Weather No Freeze</b>.<br>(Un respring n'est pas obligatoire pour appliquer tous les changements).",
+          "markdown": "• Les réglages sont dans :<br><b>Réglages</b> --› <b>Weather No Freeze</b> (Un respring n'est pas obligatoire pour appliquer tous les changements).",
           "useSpacing": true,
           "useRawFormat": true
         },
