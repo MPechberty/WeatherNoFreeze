@@ -195,7 +195,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "iOS",
-          "text": "16 - 16.7.xx"
+          "text": "16 - 16.7.XX"
         },
         {
           "class": "DepictionTableTextView",
@@ -210,7 +210,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Testé sur",
-          "text": "iPhone X, iOS 16.7.12 (palera1n rootless)"
+          "text": "iPhone X iOS 16.7.12"
         },
         {
           "class": "DepictionSeparatorView"
