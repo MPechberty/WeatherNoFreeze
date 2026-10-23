@@ -10,7 +10,7 @@
 
 Stops the Weather wallpaper from freezing on your Lock Screen & Home Screen and even more !
 
-> 🛒 **Get it on Havoc:** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
+> 🛒 **Havoc shop:** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
 
 # ***Features* :**
 
@@ -85,7 +85,7 @@ https://github.com/MPechberty/WeatherNoFreeze/issues
 
 Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !
 
-> 🛒 **À récupérer sur Havoc :** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
+> 🛒 **Boutique Havoc :** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
 
 # ***Fonctions* :**
 
