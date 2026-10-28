@@ -15,7 +15,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Havoc shop:</b> <a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
+          "markdown": "🛒 <b>Havoc shop :</b> <a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -185,7 +185,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Boutique Havoc:</b> <a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
+          "markdown": "🛒 <b>Boutique Havoc :</b> <a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
           "useSpacing": true,
           "useRawFormat": true
         },
