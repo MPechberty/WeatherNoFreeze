@@ -10,7 +10,7 @@
 
 Stops the Weather wallpaper from freezing on your Lock Screen & Home Screen and even more !
 
-> 🛒 **Havoc shop:** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
+> 🛒 **Havoc shop :** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
 
 # ***Features* :**
 
