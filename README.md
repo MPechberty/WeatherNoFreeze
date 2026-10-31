@@ -5,6 +5,7 @@
 # Weather No Freeze
 
 **🇬🇧 English** · [🇫🇷 Français](#-français)
+🇬🇧 **English**
 
 **Weather No Freeze !** the successor to **Forecast**, **WeatherBoard**, **Asteroid**, and **WeatherGround** is finally here for iOS 16 !
 
@@ -80,6 +81,7 @@ https://github.com/MPechberty/WeatherNoFreeze/issues
 ---
 
 ## 🇫🇷 Français
+🇫🇷 **Français**
 
 **Weather No Freeze !** le successeur de **Forecast**, **WeatherBoard**, **Asteroid** et **WeatherGround** enfin sur iOS 16 !
 
