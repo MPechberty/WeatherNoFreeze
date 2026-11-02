@@ -122,7 +122,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- iOS : 16 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Requires : PreferenceLoader\n\n- Tested only on : iPhone X - iOS 16.7.12",
+          "markdown": "- iOS : 16.7 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Requires : PreferenceLoader\n\n- Tested only on : iPhone X - iOS 16.7.12",
           "useSpacing": true
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "© 2026 – Created by M.Pechberty",
+          "markdown": "© 2026 – Created by M.Pechberty 🇫🇷",
           "useSpacing": true
         },
         {
@@ -292,7 +292,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- iOS : 16 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Nécessite : PreferenceLoader\n\n- Testé seulement sur : iPhone X - iOS 16.7.12",
+          "markdown": "- iOS : 16.7 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Nécessite : PreferenceLoader\n\n- Testé seulement sur : iPhone X - iOS 16.7.12",
           "useSpacing": true
         },
         {
@@ -335,7 +335,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "© 2026 – Créé par M.Pechberty",
+          "markdown": "© 2026 – Créé par M.Pechberty 🇫🇷",
           "useSpacing": true
         },
         {
