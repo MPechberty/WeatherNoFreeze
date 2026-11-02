@@ -51,7 +51,7 @@ English, French, Spanish, German, Italian, Portuguese, Dutch, Russian, Simplifie
 
 # ***Compatibility* :**
 
-- iOS : 16 --> 16.7.XX
+- iOS : 16.7 --> 16.7.XX
 
 - Jailbreak : Rootless
 
@@ -73,7 +73,7 @@ https://github.com/MPechberty/WeatherNoFreeze/issues
 
 https://github.com/MPechberty/WeatherNoFreeze/issues
 
-© 2026 – Created by M.Pechberty 🇫🇷 😎
+© 2026 – Created by M.Pechberty 🇫🇷
 
 ---
 
@@ -126,7 +126,7 @@ anglais, français, espagnol, allemand, italien, portugais, néerlandais, russe,
 
 # ***Compatibilité* :**
 
-- iOS : 16 --> 16.7.XX
+- iOS : 16.7 --> 16.7.XX
 
 - Jailbreak : Rootless
 
@@ -148,4 +148,4 @@ https://github.com/MPechberty/WeatherNoFreeze/issues
 
 https://github.com/MPechberty/WeatherNoFreeze/issues
 
-© 2026 – Créé par M.Pechberty 🇫🇷 😎
+© 2026 – Créé par M.Pechberty 🇫🇷
