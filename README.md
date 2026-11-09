@@ -10,8 +10,6 @@
 
 Stops the Weather wallpaper from freezing on your Lock Screen & Home Screen and even more !
 
-> 🛒 **Havoc shop :** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
-
 # ***Features* :**
 
 **• Unfreeze the Weather wallpaper :**
@@ -84,8 +82,6 @@ https://github.com/MPechberty/WeatherNoFreeze/issues
 **Weather No Freeze !** le successeur de **Forecast**, **WeatherBoard**, **Asteroid** et **WeatherGround** enfin sur iOS 16 !
 
 Empêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !
-
-> 🛒 **Boutique Havoc :** [https://havoc.app/package/weathernofreeze](https://havoc.app/package/weathernofreeze)
 
 # ***Fonctions* :**
 
