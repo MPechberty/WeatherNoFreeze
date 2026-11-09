@@ -15,12 +15,6 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Havoc shop :</b><br><a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
-          "useSpacing": true,
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionMarkdownView",
           "markdown": "# ***Features* :**",
           "useSpacing": true
         },
@@ -182,12 +176,6 @@
           "class": "DepictionMarkdownView",
           "markdown": "**🇫🇷 Français**\n\n**Weather No Freeze !** le successeur de **Forecast**, **WeatherBoard**, **Asteroid** et **WeatherGround** enfin sur iOS 16 !\n\nEmpêche le fond d'écran Météo de se figer sur ton Lock Screen & Home Screen et plus encore !",
           "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Boutique Havoc :</b><br><a href=\"https://havoc.app/package/weathernofreeze\" style=\"color:#1F7AFF\">https://havoc.app/package/weathernofreeze</a>",
-          "useSpacing": true,
-          "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
